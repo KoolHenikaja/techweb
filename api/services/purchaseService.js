@@ -1,3 +1,4 @@
+/* Models and service */
 const db = require('../models');
 
 class PurchaseService {

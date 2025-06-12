@@ -1,3 +1,4 @@
+/*  Modeles de la chaussure */
 module.exports = (sequelize, DataTypes) => {
     const Shoe = sequelize.define('Shoe', {
       id: {
